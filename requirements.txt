@@ -1,0 +1,12 @@
+python-telegram-bot==20.7
+yt-dlp
+aiohttp
+aiosqlite
+python-dotenv
+rapidfuzz
+redis
+aioredis
+spotipy
+scikit-learn
+fastapi
+uvicorn
